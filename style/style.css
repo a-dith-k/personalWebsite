@@ -1,0 +1,55 @@
+#person-name {
+
+    font-family: Rancho;
+    font-size: 3;
+    font-style: normal;
+    font-variant: normal;
+    
+}
+.nav-link{
+    color:white;
+}
+.row{
+    --bs-gutter-x:0;
+}
+.img-fluid{
+    
+}
+.btn{
+    width:100%;
+    color:white;
+    background:#6bd5ff;
+}
+.quote{
+    font-family:brandon-grot-w01-light,sans-serif;
+}
+.bg-secondary{
+    --bs-bg-opacity:30%;
+}
+.bg-info{
+    --bs-bg-opacity:90%;
+}
+#education{
+    --bs-bg-opacity:50%;
+}
+.contact-div{
+    --bs-bg-opacity:70%;
+
+}
+a{
+    color:white;
+    
+}
+.head{
+    position:fixed;
+    width:100%;
+    z-index:1;
+
+}
+#home{
+    padding-top:9em;
+    padding-bottom:2em;
+}
+html{
+    scroll-behavior: smooth;
+}
